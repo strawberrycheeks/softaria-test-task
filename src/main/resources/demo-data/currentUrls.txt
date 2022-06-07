@@ -1,0 +1,95 @@
+<!DOCTYPE html "http://www.taylorswift.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Taylor Swift</title>
+  </head>
+  <body>
+    <p>Taylor Swift is the debut studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.fearless.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fearless (Taylor's version)</title>
+  </head>
+  <body>
+    <p>Fearless (Taylor's version) is the first re-recorded album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.speaknow.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Speak Now</title>
+  </head>
+  <body>
+    <p>Speak Now is the third studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.red.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Red (Taylor's version)</title>
+  </head>
+  <body>
+    <p>Red (Taylor's version) is the second re-recorded album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.1989-deluxe.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>1989 (Deluxe Edition)</title>
+  </head>
+  <body>
+    <p>1989 (Deluxe Edition) is the fifth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.reputation.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Reputation</title>
+  </head>
+  <body>
+    <p>Reputation is the sixth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.lover-deluxe.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lover (Deluxe Edition)</title>
+  </head>
+  <body>
+    <p>Lover (Deluxe Edition) is the seventh studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.folklore.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Folklore</title>
+  </head>
+  <body>
+    <p>Folklore is the eighth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html http://www.evermore.com>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Evermore</title>
+  </head>
+  <body>
+    <p>Evermore is the ninth studio album by Taylor Swift.</p>
+  </body>
+</html>
+
+
+Удалены: 
+Новые: 
+Изменились: 2 Taylor's version
