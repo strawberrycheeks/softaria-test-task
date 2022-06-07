@@ -1,4 +1,4 @@
-package ru.softaria.test.demo;
+package ru.softaria.test;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -7,25 +7,26 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class DemoDataLoader {
+
     private static final String previousUrlsPath = "demo-data/previousUrls.txt";
     private static final String currentUrlsPath  = "demo-data/currentUrls.txt";
 
     private static final String doctypeMarker = "!DOCTYPE";
     private static final String htmlEndMarker = "</html>";
 
-    public Map<String, String> loadPreviousUrls() {
+    public static Map<String, String> loadPreviousUrls() {
         return loadUrlsMap(previousUrlsPath);
     }
 
-    public Map<String, String> loadCurrentUrls() {
+    public static Map<String, String> loadCurrentUrls() {
         return loadUrlsMap(currentUrlsPath);
     }
 
-    public Map<String, String> loadUrlsMap(String path) {
+    public static Map<String, String> loadUrlsMap(final String path) {
         Map<String, String> urls = new HashMap<>();
 
         try (
-                InputStream in = this.getClass().getClassLoader().getResourceAsStream(path);
+                InputStream in = DemoDataLoader.class.getClassLoader().getResourceAsStream(path);
                 BufferedReader br = new BufferedReader(new InputStreamReader(in))
         ) {
             StringBuilder html = new StringBuilder();
@@ -52,4 +53,5 @@ public class DemoDataLoader {
 
         return urls;
     }
+
 }

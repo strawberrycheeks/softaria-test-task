@@ -1,7 +1,6 @@
 package ru.softaria.test;
 
-import ru.softaria.test.demo.DemoDataLoader;
-
+import java.util.List;
 import java.util.Map;
 
 public class Application {
@@ -11,21 +10,17 @@ public class Application {
         application.runDemo();
     }
 
-    public void run() {
-
-    }
+    public void run() {}
 
     public void runDemo() {
-        DemoDataLoader demoDataLoader = new DemoDataLoader();
+        Map<WebsiteStatus, List<String>> statusUrl = WebsiteStatusChecker.checkStatus(
+                DemoDataLoader.loadPreviousUrls(),
+                DemoDataLoader.loadCurrentUrls()
+        );
 
-        Map<String, String> map = demoDataLoader.loadPreviousUrls();
-        for (String key : map.keySet()) {
-            System.out.println(key + "\n" + map.get(key));
-        }
-
-        map = demoDataLoader.loadCurrentUrls();
-        for (String key : map.keySet()) {
-            System.out.println(key + "\n" + map.get(key));
-        }
+        String username = "сотрудник компании Softaria";
+        String email = EmailFormatter.generateStatusMessage(username, statusUrl);
+        System.out.println(email);
     }
+
 }
