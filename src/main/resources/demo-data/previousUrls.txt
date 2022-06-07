@@ -1,0 +1,90 @@
+<!DOCTYPE html "http://www.taylorswift.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Taylor Swift</title>
+  </head>
+  <body>
+    <p>Taylor Swift is the debut studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.fearless.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Fearless</title>
+  </head>
+  <body>
+    <p>Fearless is the second studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.speaknow.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Speak Now</title>
+  </head>
+  <body>
+    <p>Speak Now is the third studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.red.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Red</title>
+  </head>
+  <body>
+    <p>Red is the forth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.1989.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>1989</title>
+  </head>
+  <body>
+    <p>1989 is the fifth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.reputation.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Reputation</title>
+  </head>
+  <body>
+    <p>Reputation is the sixth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.lover.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lover</title>
+  </head>
+  <body>
+    <p>Lover is the seventh studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.folklore.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Folklore</title>
+  </head>
+  <body>
+    <p>Folklore is the eighth studio album by Taylor Swift.</p>
+  </body>
+</html>
+<!DOCTYPE html "http://www.evermore.com">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Evermore</title>
+  </head>
+  <body>
+    <p>Evermore is the ninth studio album by Taylor Swift.</p>
+  </body>
+</html>
